@@ -1,0 +1,17 @@
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('IIya', 'Naishuller');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Peter', 'Jackson');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Mike', 'Judge');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Ridley', 'Scott');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('James', 'Cameron');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('W.D.', 'Richter');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Stephen', 'Sommers');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('George', 'Miller');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Taika', 'Waititi');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('John', 'McTiernan');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Stephen', 'Herek');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('George', 'Lucas');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Irvin', 'Kershner');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Ron', 'Howard');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Steven', 'Spielberg');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Lana', 'Wachowski');
+INSERT INTO DDR_DIRECTOR (firstName, lastName) VALUES ('Lilly', 'Wachowski');

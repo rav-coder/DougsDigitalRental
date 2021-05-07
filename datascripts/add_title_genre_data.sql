@@ -1,0 +1,68 @@
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'NOBODY');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (5, 'NOBODY');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'FELLOWSHIP');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (8, 'FELLOWSHIP');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'FELLOWSHIP');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'TWO TOWERS');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (8, 'TWO TOWERS');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'TWO TOWERS');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'RETURN KING');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (8, 'RETURN KING');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'RETURN KING');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (1, 'OFFICE SPACE');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (11, 'OFFICE SPACE');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (5, 'ALIEN');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (6, 'ALIEN');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (7, 'ALIEN');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (5, 'ALIENS');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'ALIENS');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (7, 'ALIENS');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'BUCKAROO BANZAI');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'BUCKAROO BANZAI');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'MUMMY');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'MUMMY');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'MAD MAX');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'MAD MAX');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (1, 'WILDERPEOPLE');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'WILDERPEOPLE');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (9, 'WILDERPEOPLE');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'RED OCTOBER');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (20, 'RED OCTOBER');
+
+SET DEFINE OFF;
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (1, 'BILL & TED');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'BILL & TED');
+SET DEFINE ON;
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'A NEW HOPE');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'A NEW HOPE');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (6, 'A NEW HOPE');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'STRIKES BACK');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'STRIKES BACK');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (6, 'STRIKES BACK');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'THE MARTIAN');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (6, 'THE MARTIAN');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (4, 'APOLLO 13');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'JURASSIC PARK');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'THE MATRIX');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (6, 'THE MATRIX');
+
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (2, 'PREDATOR');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (20, 'PREDATOR');
+INSERT INTO DDR_TITLE_GENRE (genre_id, title_code) VALUES (7, 'PREDATOR');

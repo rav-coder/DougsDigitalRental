@@ -1,0 +1,25 @@
+
+                                                                                    Rentals for a                                                                                   
+                                                                                  Specific Customer                                                                                 
+                                                                                                                                                                                    
+                                                                                                                                                                                    
+Name                                               Format Title                                                                                                Refund   Price       
+-------------------------------------------------- ------ ---------------------------------------------------------------------------------------------------- ------ -------       
+Aaron, Aaronson                                    SD     The Lord of the Rings: The Return of the King                                                        Y        $0.00       
+                                                   HD     The Lord of the Rings: The Fellowship of the Ring                                                    N        $6.99       
+                                                   HD     The Lord of the Rings: The Two Towers                                                                N        $6.99       
+**************************************************                                                                                                                    -------       
+Rental Total:                                                                                                                                                          $13.98       
+                                                                                                                                                                                    
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  --End Of Report--                                                                                 

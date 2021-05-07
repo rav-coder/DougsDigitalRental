@@ -1,0 +1,22 @@
+Enter the cast first name: sam
+Enter the cast last name: neill
+
+                                                      Movies For A                                                      
+                                                     Specific Actor                                                     
+                                                                                                                        
+                                                                                                                        
+Firstname                 Lastname                     Cast ID Title                                                    
+------------------------- ------------------------- ---------- --------------------------------------------------       
+Sam                       Neill                             24 Jurassic Park                                            
+Sam                       Neill                             24 The Hunt for Red October                                 
+Sam                       Neill                             24 Hunt for the Wilderpeople                                
+
+
+
+
+
+
+
+
+
+                                                    --End Of Report--                                                   

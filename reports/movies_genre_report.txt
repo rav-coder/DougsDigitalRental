@@ -1,0 +1,30 @@
+
+                                                                 Movies In A                                                                
+                                                               Specific Genre                                                               
+                                                                                                                                            
+                                                                                                                                            
+Title                                                                                                Genre                                  
+---------------------------------------------------------------------------------------------------- -------------------------              
+Aliens                                                                                               Action                                 
+Jurassic Park                                                                                        Action                                 
+Mad Max Fury Road                                                                                    Action                                 
+Nobody                                                                                               Action                                 
+Predator                                                                                             Action                                 
+Star Wars: Episode IV - A New Hope                                                                   Action                                 
+Star Wars: Episode V - The Empire Strikes Back                                                       Action                                 
+The Adventures of Buckaroo Banzai Across the 8th Dimension                                           Action                                 
+The Hunt for Red October                                                                             Action                                 
+The Lord of the Rings: The Fellowship of the Ring                                                    Action                                 
+The Lord of the Rings: The Return of the King                                                        Action                                 
+The Lord of the Rings: The Two Towers                                                                Action                                 
+The Matrix                                                                                           Action                                 
+The Mummy                                                                                            Action                                 
+
+
+
+
+
+
+
+
+                                                              --End Of Report--                                                             
